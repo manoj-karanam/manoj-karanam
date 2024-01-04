@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Life is a Sinusoidal Wave
+MS Computer Science @ Purdue University, Indiana, USA
 
 - 🔭 I’m currently working on MERN Project
 - 🌱 I’m currently learning MERN-stack, DSA
