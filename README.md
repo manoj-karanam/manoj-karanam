@@ -2,8 +2,8 @@
 
 MS Computer Science @ Purdue University, Indiana, USA
 
-- 🔭 I’m currently working on MERN Project
-- 🌱 I’m currently learning MERN-stack, DSA
+- 🔭 I’m currently working on my NLP Project
+- 🌱 I’m currently learning MERN-stack, DSA, NLP
 - 📫 How to reach me: manojkaranamm@gmail.com
 - 😄 Pronouns: He/Him
 - LEETCODE : https://leetcode.com/manojpfw
