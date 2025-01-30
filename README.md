@@ -2,7 +2,7 @@
 
 MS Computer Science @ Purdue University, Indiana, USA
 
-- 🔭 I’m currently working on building a blog using Django
+- 🔭 I’m currently Building a project with springboot, feel free to checkout my repositories
 - 📫 How to reach me: manojkaranamm@gmail.com
 - 😄 Pronouns: He/Him
 - My Portfolio : https://manoj-karanam.github.io/
