@@ -2,11 +2,6 @@
 
 MS Computer Science @ Purdue University
 
-Software Engineer with 2+ years of experience in Spring Boot, Microservices, SQL/NoSQL and secure authentication
-(OAuth2, JWT). Solved 200+ problems on LeetCode. Hands-on experience with Django, DevOps tools, and cloud
-platforms. Passionate about building scalable applications and eager to contribute to innovative projects. Actively seeking
-development opportunities
-
 - 🔭 I’m currently Building a project with springboot, feel free to checkout my repositories
 - 📫 How to reach me: manojkaranamm@gmail.com
 - 😄 Pronouns: He/Him
