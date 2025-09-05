@@ -21,9 +21,7 @@
 
 ---
 
-## ⚙️ Tech Stack  
-
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack    
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -52,8 +50,6 @@
 
 ## 🚀 Featured Projects  
 
-## 🚀 Featured Projects  
-
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Online Banking](https://github.com/OnlineBankingSystem) | Secure online banking system with account management and transactions | Spring Boot, MySQL, Spring Security |
@@ -61,10 +57,6 @@
 | [Childcare System](https://github.com/manoj-karanam/ACS567-group5-backendApp) | Parent portal for children’s schedules | Django, MongoDB |
 | [Telescope](https://github.com/manoj-karanam/Telescope) | Marketplace for Purdue students to buy/sell items | React, Node.JS, MongoDB |
 
-
-
-
-*(Pin these repositories on your GitHub profile for visibility.)*
 
 ---
 
