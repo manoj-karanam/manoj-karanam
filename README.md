@@ -56,10 +56,12 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Telescope](https://github.com/yourrepo) | Marketplace for Purdue students to buy/sell items | React, Django |
-| [Childcare System](https://github.com/yourrepo) | Parent portal for children’s schedules | Spring Boot, MySQL |
-| [Online Banking](https://github.com/yourrepo) | Secure online banking system with account management and transactions | Spring Boot, MySQL, Spring Security |
-| [Lettuce Blog](https://github.com/yourrepo) | A blogging platform with CRUD operations and user authentication | Django |
+| [Online Banking](https://github.com/OnlineBankingSystem) | Secure online banking system with account management and transactions | Spring Boot, MySQL, Spring Security |
+| [Lettuce Blog](https://github.com/manoj-karanam/springboot-blog-webapp) | A blogging platform with CRUD operations and user authentication | Spring Boot, MySql, Thymeleaf |
+| [Childcare System](https://github.com/manoj-karanam/ACS567-group5-backendApp) | Parent portal for children’s schedules | Django, MongoDB |
+| [Telescope](https://github.com/manoj-karanam/Telescope) | Marketplace for Purdue students to buy/sell items | React, Node.JS, MongoDB |
+
+
 
 
 *(Pin these repositories on your GitHub profile for visibility.)*
