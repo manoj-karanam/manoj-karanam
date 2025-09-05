@@ -72,6 +72,9 @@
 
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj-karanam&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-karanam&layout=compact&theme=radical)
+## 🧩 LeetCode Status  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/grindrock?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
 ---
 
