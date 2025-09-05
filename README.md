@@ -11,7 +11,7 @@
 
 - 🔭 **Currently seeking** full-time opportunities & internships  
 - 💻 **Tech Stack:** Java, Spring Boot, Microservices, AWS, Docker, Kubernetes  
-- 🌱 **Learning:** Human-Computer Interaction & Quantum Computing  
+- 🌱 **Learning:** System Design
 - 📫 **Reach me:** [manojkaranamm@gmail.com](mailto:manojkaranamm@gmail.com)  
 - 🌐 **Portfolio:** [manoj-karanam.github.io](https://manoj-karanam.github.io)  
 - 💼 **LinkedIn:** [Sai Manoj Karanam](https://www.linkedin.com/in/sai-manoj-karanam)  
