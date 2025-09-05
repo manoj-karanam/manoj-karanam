@@ -3,7 +3,7 @@
 🎓 **MS in Computer Science @ Purdue University**  
 💡 **Backend Engineer | Spring Boot | AWS | Microservices**  
 
-![Profile views](https://komarev.com/ghpvc/?username=manoj-karanam&color=blue)
+
 
 ---
 
@@ -45,7 +45,9 @@
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🧩 LeetCode Status  
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/grindrock?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 ---
 
 ## 🚀 Featured Projects  
@@ -64,9 +66,8 @@
 
 ![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj-karanam&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-karanam&layout=compact&theme=radical)
-## 🧩 LeetCode Status  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/grindrock?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+![Profile views](https://komarev.com/ghpvc/?username=manoj-karanam&color=blue)
 
 ---
 
