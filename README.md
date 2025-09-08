@@ -48,6 +48,7 @@
 ## 🧩 LeetCode Status  
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/grindrock?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+- 🧩 **LeetCode:** [grindrock](https://leetcode.com/grindrock/)  
 ---
 
 ## 🚀 Featured Projects  
