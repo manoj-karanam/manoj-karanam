@@ -1,23 +1,19 @@
 # 👋 Hi, I'm Sai Manoj Karanam  
 
-🎓 **MS in Computer Science @ Purdue University**  
-💡 **Backend Engineer | Spring Boot | AWS | Microservices**  
 
+💡 Software Engineer | Full Stack Engineering | AI Systems | Spring Boot, FastAPI, Flask | AWS, Digital Ocean  
+🎓 MS in Computer Science @ Purdue University
 
 
 ---
 
-## 🔹 About Me  
+## 🔹 About Me
 
-- 🔭 **Currently seeking** full-time opportunities & internships  
-- 💻 **Tech Stack:** Java, Spring Boot, Microservices, AWS, Docker, Kubernetes  
-- 🌱 **Learning:** System Design
-- 📫 **Reach me:** [manojkaranamm@gmail.com](mailto:manojkaranamm@gmail.com)  
-- 🌐 **Portfolio:** [manoj-karanam.github.io](https://manoj-karanam.github.io)  
-- 💼 **LinkedIn:** [Sai Manoj Karanam](https://www.linkedin.com/in/sai-manoj-karanam)  
-- 🧩 **LeetCode:** [grindrock](https://leetcode.com/grindrock/)  
-- 😄 **Pronouns:** He/Him  
-- 🗣️ **Fun fact:** I can speak 5 languages!  
+-  Currently building AI and automation solutions at PeopleLead.AI.
+-  Software Engineer with experience building backend systems, microservices, AI-powered applications, and financial platforms.
+-  Experienced with RAG systems, LangChain, LangGraph, Vector Databases, and LLM-powered applications.
+-  Passionate about building realiable AI systems.
+-  Musician who enjoys playing guitar, harmonica, bamboo flute, and performing at university events.
 
 ---
 
@@ -51,15 +47,15 @@
 - 🧩 **LeetCode:** [grindrock](https://leetcode.com/grindrock/)  
 ---
 
-## 🚀 Featured Projects  
+
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
-|---------|-------------|------|
-| [Online Banking](https://github.com/OnlineBankingSystem) | Secure online banking system with account management and transactions | Spring Boot, MySQL, Spring Security |
-| [Lettuce Blog](https://github.com/manoj-karanam/springboot-blog-webapp) | A blogging platform with CRUD operations and user authentication | Spring Boot, MySql, Thymeleaf |
-| [Childcare System](https://github.com/manoj-karanam/ACS567-group5-backendApp) | Parent portal for children’s schedules | Django, MongoDB |
-| [Telescope](https://github.com/manoj-karanam/Telescope) | Marketplace for Purdue students to buy/sell items | React, Node.JS, MongoDB |
-
+|----------|-------------|------|
+| [Luke 9:23 Sync Tool]([sync.peoplelead.ai](https://sync.peoplelead.ai/login)) | Production platform that synchronizes donation and customer data between Planning Center and QuickBooks, automating reconciliation workflows and reducing operational costs. | Flask, MongoDB, OAuth 2.0, REST APIs |
+| [AI Engineering Intelligence Platform](#) | RAG-powered repository intelligence platform that enables developers to query GitHub repositories using natural language. | React, FastAPI, LangChain, LangGraph, Pinecone |
+| [Childcare System](https://github.com/manoj-karanam/ACS567-group5-backendApp) | Parent portal for managing children's schedules and information. | Django, MongoDB |
+| [Telescope](https://github.com/manoj-karanam/Telescope) | Marketplace application for Purdue students to buy and sell items. | React, Node.js, MongoDB |
 
 ---
 
@@ -74,4 +70,4 @@
 
 ## 🎶 Outside of Code  
 
-I play guitar, harmonica, bamboo flute, and sing at university gigs — spreading smiles through music!
+I play guitar, harmonica, bamboo flute, and sing at gigs — spreading smiles through music!
