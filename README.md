@@ -9,7 +9,7 @@
 
 ## 🔹 About Me
 
--  Currently building AI and automation solutions at ## PeopleLead.AI.
+-  Currently building AI and automation solutions at **PeopleLead.AI**.
 -  Software Engineer with experience building backend systems, microservices, AI-powered applications, and financial platforms.
 -  Experienced with RAG systems, LangChain, LangGraph, Vector Databases, and LLM-powered applications.
 -  Passionate about building realiable AI systems.
