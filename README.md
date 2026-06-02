@@ -28,21 +28,14 @@
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| [Luke 9:23 Sync Tool]([sync.peoplelead.ai](https://sync.peoplelead.ai/login)) | Production platform that synchronizes donation and customer data between Planning Center and QuickBooks, automating reconciliation workflows and reducing operational costs. | Flask, MongoDB, OAuth 2.0, REST APIs |
-| [AI Engineering Intelligence Platform](#) | RAG-powered repository intelligence platform that enables developers to query GitHub repositories using natural language. | React, FastAPI, LangChain, LangGraph, Pinecone |
+| [Luke 9:23 Sync Tool](https://sync.peoplelead.ai/login) | Production platform that synchronizes donation and customer data between Planning Center and QuickBooks, automating reconciliation workflows and reducing operational costs. | Flask, MongoDB, OAuth 2.0, REST APIs |
+| [AI Engineering Intelligence Platform](https://github.com/manoj-karanam/AI-Engineering-Intelligence-Platform) | RAG-powered repository intelligence platform that enables developers to query GitHub repositories using natural language. | React, FastAPI, LangChain, LangGraph, Pinecone |
 | [Childcare System](https://github.com/manoj-karanam/ACS567-group5-backendApp) | Parent portal for managing children's schedules and information. | Django, MongoDB |
 | [Telescope](https://github.com/manoj-karanam/Telescope) | Marketplace application for Purdue students to buy and sell items. | React, Node.js, MongoDB |
 
----
-
-## 📊 GitHub Stats  
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj-karanam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-karanam&layout=compact&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=manoj-karanam&color=blue)
 
----
 
 ## 🎶 Outside of Code  
 
